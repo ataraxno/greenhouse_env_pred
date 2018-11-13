@@ -2,6 +2,13 @@
 # Created by https://www.gitignore.io/api/python,jupyternotebook
 # Edit at https://www.gitignore.io/?templates=python,jupyternotebook
 
+### Raw data ###
+*.csv
+*.CSV
+*.xlsx
+*.npz
+*.png
+
 ### JupyterNotebook ###
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
