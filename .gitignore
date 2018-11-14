@@ -9,6 +9,10 @@
 *.npz
 *.png
 
+### Tensorflow ###
+*/summary/*
+*/models/*
+
 ### JupyterNotebook ###
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
