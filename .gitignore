@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
 # Created by https://www.gitignore.io/api/python,jupyternotebook
 # Edit at https://www.gitignore.io/?templates=python,jupyternotebook
 
@@ -11,8 +15,11 @@
 ### Tensorflow ###
 */summary/*
 */models/*
+<<<<<<< HEAD
 summary/
 models/
+=======
+>>>>>>> origin/master
 
 ### JupyterNotebook ###
 .ipynb_checkpoints
@@ -153,7 +160,10 @@ pyvenv.cfg
 pip-selfcheck.json
 
 # End of https://www.gitignore.io/api/python,jupyternotebook
+<<<<<<< HEAD
 wLSTM_CO2/summary/
 wLSTM_allenv/summary/
 wLSTM_CO2/models/
 wLSTM_allenv/models/
+=======
+>>>>>>> origin/master
